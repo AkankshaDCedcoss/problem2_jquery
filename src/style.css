@@ -1,0 +1,47 @@
+.main {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: black;
+}
+.main input[type="text"] {
+  width: 30%;
+  height: 20%;
+  font-size: 30px;
+  background-color: rgb(223, 182, 105);
+  margin-top: 7%;
+  border: 1px solid black;
+}
+button {
+  width: 40%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: 30px;
+  margin-left: 30%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-color: rgb(223, 182, 105);
+  border: 1px solid wheat;
+}
+label {
+  color: wheat;
+  font-size: 30px;
+  margin-left: 10%;
+  margin-top: 60px;
+}
+h1 {
+  color: wheat;
+  font-size: 40px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 30px;
+  padding-top: 50px;
+}
+body {
+  background-color: turquoise;
+}
+#output {
+  margin-left: 25%;
+  font-size: 40px;
+  color: burlywood;
+  margin-top: 40px;
+}
